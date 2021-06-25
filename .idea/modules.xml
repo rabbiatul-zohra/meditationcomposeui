@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meditation-compose-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/meditation-compose-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/meditation-compose-ui.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/meditation-compose-ui.app.iml" />
+    </modules>
+  </component>
+</project>
